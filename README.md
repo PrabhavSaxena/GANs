@@ -1,2 +1,2 @@
-# GANs
-MNIST Dataset Generation using GANs
+# MNIST Dataset Generation using GANs
+
